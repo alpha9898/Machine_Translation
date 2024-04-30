@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 # Step 1: Read and preprocess data
-with open("data.txt", "r", encoding="utf-8") as file:
+with open("data_eng.txt", "r", encoding="utf-8") as file:
     lines = file.readlines()
 
 X = []

@@ -62,7 +62,7 @@ class TranslationApp:
             return
 
         # Load and preprocess data
-        with open("data.txt", "r", encoding="utf-8") as file:
+        with open("data_eng.txt", "r", encoding="utf-8") as file:
             lines = file.readlines()
 
         X = []
