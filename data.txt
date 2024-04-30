@@ -1,0 +1,592 @@
+Hi.	مرحبًا.
+Run!	اركض!
+Duck!	اخفض رأسك!
+Duck!	اخفضي رأسك!
+Duck!	اخفضوا رؤوسكم!
+Help!	النجدة!
+Jump!	اقفز!
+Stop!	قف!
+Stop!	توقف !
+Wait!	إنتظر
+Go on.	داوم.
+Go on.	استمر.
+Hello!	مرحباً.
+Hello.	أهلاً.
+Hello.	مرحباً.
+Hurry!	تعجّل!
+Hurry!	استعجل!
+I see.	انا ارى.
+I won!	أنا فُزت!
+Relax.	استرح.
+Smile.	ابتسم.
+Cheers!	في صحتك.
+Got it?	هل فهمت؟
+He ran.	ركض.
+I know.	أعرف.
+I know.	أعلم ذلك.
+I know.	أنا أعلم
+I'm 19.	أنا في 19
+I'm OK.	أنا بخير.
+Listen.	استمع
+No way!	غير معقول!
+Really?	حقاً؟
+Thanks!	شكراً!
+Thanks.	شكرا.
+Why me?	لماذا أنا؟
+Awesome!	رائع!
+Be cool.	خذ راحتك.
+Beat it.	أغرب عن وجهي
+Call me.	هاتفني.
+Call me.	اتصل بي.
+Come in.	تفضل بالدخول.
+Come in.	تعال إلى الداخل
+Come on!	بالله عليك!
+Come on!	هيا
+Come on!	هيّا
+Get out!	اخرج من هنا!
+Get out!	أُخرج!
+Get out.	اخرج!
+Go away.	اتركني و شأني.
+Go away.	اذهب بعيداً.
+Go away.	ارحل.
+Goodbye!	مع السلامة.
+Goodbye!	إلى اللقاء
+Hang on.	إنتظر
+He came.	لقد أتى.
+He runs.	هو يجري
+Help me!	ساعدني!
+Help me.	النجدة!
+Hold on.	انتظر.
+I agree.	أنا موافق
+I'm sad.	أنا حزين.
+Me, too.	أنا أيضاً.
+Me, too.	أنا كذلك
+Shut up!	اخرس!
+Shut up!	اصمت!
+Shut up!	اسكت!
+Shut up!	أغلق فمك!
+Stop it.	أوقفه
+Take it.	خذه
+Tell me.	أخبرني
+Tom won.	توم فاز.
+Tom won.	لقد ربح توم.
+Wake up!	استيقظ!
+Welcome.	أهلاً و سهلاً!
+Welcome.	مرحباً بك!
+Welcome.	اهلا وسهلا
+Welcome.	مرحبا!
+Who won?	من فاز؟
+Who won?	من الذي ربح؟
+Why not?	لم لا؟
+Why not?	لما لا؟
+I forgot.	لقد نسيت.
+I got it.	فهمتُهُ.
+I got it.	فهمتُها.
+I got it.	فَهمتُ ذلك.
+I use it.	أستخدمه.
+I'll pay.	سأدفع أنا.
+I'm busy.	أنا مشغول.
+I'm busy.	إنني مشغول.
+I'm cold.	أشعر بالبرد.
+I'm free.	أنا حُرّ.
+I'm here.	أنا هنا
+I'm home.	لقد عدت إلى البيت
+I'm poor.	أنا فقير.
+I'm rich.	أنا ثري.
+It hurts.	هذا مؤلم
+It works.	هي تمشي.
+It's dry.	انها جافه
+It's hot.	الجو حار
+It's new.	إنه جديد
+Let's go!	هيا بنا!
+Let's go!	هيا لنذهب!
+Let's go!	لنذهب.
+Let's go.	هيا بنا.
+Let's go.	هيا بنا نذهب.
+Look out!	اِنتبه!
+Look out!	إحذر!
+Look out!	انتبه
+Speak up!	تكلم!
+Stand up!	قف!
+Terrific!	رائع!
+Terrific!	ممتاز!
+Tom died.	توم مات.
+Tom died.	توفي توم.
+Tom left.	لقد غادر توم.
+Tom lied.	لقد كذِبَ توم.
+Tom lost.	لقد خَسِرَ توم.
+Tom quit.	توم استقال.
+Tom quit.	استقال توم
+Try some.	هاك، جرب.
+Who am I?	من أنا؟
+Who died?	من مات؟
+Who died?	من توفي؟
+After you.	من بعدك
+Birds fly.	العصافير تطير.
+Birds fly.	تحلق الطيور.
+Bless you.	يُباركك.
+Calm down.	اِهدأ.
+Can we go?	هل نستطيع أن نذهب؟
+Come here.	تعال هنا.
+Come here.	تعال إلى هنا.
+Come here.	اقتربي.
+Come home.	تعال إلى منزلي.
+Did I win?	هل أنا فُزت؟
+Do it now.	افعل ذلك الآن.
+Don't lie.	إياك و الكذب.
+Excuse me.	عفواً.
+Excuse me.	أعذرني
+Fantastic!	رائع!
+Forget it!	انسَ الأمر.
+Forget it!	انسَ ذلك
+Forget it.	انسَ الأمر.
+Forget it.	انسَ ذلك
+Forget me.	انسني.
+Go inside.	أُدخُلْ.
+Go to bed.	اذهب إلى النوم
+Good luck.	بالتوفيق.
+Goodnight.	ليلة سعيدة.
+Goodnight.	مساء الخير
+Hands off.	لا تلمسني.
+He is ill.	إنه مريض.
+He is ill.	هو مريض
+How's Tom?	كيف توم؟
+How's Tom?	كيف حال توم؟
+I am cold.	أشعر بالبرد.
+I am here.	أنا هنا
+I am okay.	أنا بخير.
+I am sure.	أنا متأكد.
+I hope so.	آمل ذلك.
+I laughed.	ضحكت.
+I like it.	هذا يعجبني.
+I love it.	أنا أحبه.
+I see Tom.	أنا أرى توم
+I'm a boy.	أنا ولد.
+I'm a kid.	أنا ولد.
+I'm a man.	أنا رجلٌ.
+I'm alone.	أنا لوحدي.
+I'm bored.	مللت.
+I'm broke.	لقد كُسِرت
+I'm happy.	أنا سعيد
+I'm lucky.	انا محظوظ.
+I'm needy.	أنا مسكين.
+I'm ready.	أنا مستعد.
+I'm ready.	أنا مستعدة.
+I'm sorry.	أنا آسف.
+I'm sorry.	أنا متأسف.
+I'm sorry.	أتأسف.
+I'm sorry.	أنا آسف
+I'm tired.	أنا متعب.
+Is it new?	هل هذا جديد؟
+It's cold.	الجو بارد.
+It's late.	إنها ساعة متأخرة.
+Let me go.	دَعني أذهب.
+Listen up.	اسمع
+Look back!	انظر خلفك!
+Of course!	طبعاً!
+Of course.	بالطبع.
+Of course.	طبعاً.
+Of course.	بالتأكيد.
+Of course.	طبعاً!
+Pardon me?	المعذرة؟
+Seriously?	أأنت جاد؟
+She walks.	هي تمشي.
+Stay away.	ابتعد عني
+Stay thin.	حافظي على جسم نحيف.
+Stay thin.	إبقي نحيفة.
+Stay thin.	حافظ على نحافتك.
+Stop that!	أوقف ذلك.
+Stop that.	أوقف ذلك.
+Take care!	انتبه!
+Take care.	مع السلامة.
+Take care.	اعتن بنفسك.
+Take care.	اعتني بنفسك
+Thank you.	شكراً لك
+Then what?	ثم ماذا؟
+Then what?	ماذا بعد ذلك؟
+Tom moved.	لقد تحرك توم.
+Tom waved.	لَوَحَ توم.
+Watch out!	انتبه
+We're hot.	نشعر بالحرارة
+Well done!	جيد
+What's up?	ما الجديد؟
+Who cares?	من يهمّه؟
+Who is it?	مَن؟
+Who knows?	من يدري؟
+Who knows?	من يعلم؟
+Wonderful!	مذهل.
+Wonderful!	ممتاز!
+You idiot!	يا أحمق!
+You idiot!	يا غبي!
+You tried.	لقد حاولت وسعك.
+All aboard!	ليركب الجميع.
+All aboard!	ليركب الكل.
+Am I clear?	هل هذا واضح؟
+Am I wrong?	هل أنا مخطئ؟
+Be careful.	كن حذرا.
+Be serious.	كُن جدياً.
+Birds sing.	العصافير تغرّد
+Bottoms up!	الى القاع .
+Bottoms up!	برشفة واحدة .
+Bring food.	أحضر الطعام.
+Bring help.	أحضِر المُساعدة.
+Bring wine.	أحضر الخمر.
+Bring wine.	أحضر النبيذ.
+Can I stay?	هل أستطيع أن أبقى؟
+Carry this.	احمل هذا.
+Check that.	إفحص ذلك.
+Check this.	إفحص هذا.
+Come again.	تعالَ مُجدداً.
+Come alone.	تعالَ وحدك.
+Come alone.	تعالَ بمفردك.
+Come along.	تعال معنا.
+Come on in!	هيا ادخل
+Come on in.	هيا ادخل
+Come quick!	تعال بسرعة.
+Come to me.	تعال إلي
+Definitely!	بالتأكيد
+Definitely!	قطعاً
+Don't move.	لا تتحرك.
+Fill it up.	املئها.
+Find a job.	إبحث عن عمل
+Follow him.	اتبعه.
+Go to work.	اذهب إلى العمل
+Good night.	ليلة سعيدة.
+Have faith.	كن مؤمنا.
+He is nice.	إنه لطيف.
+He is sick.	إنه مريض.
+He's happy.	هو سعيد
+He's smart.	هو ذكي.
+He's smart.	إنه ذكي.
+Here he is!	ها هو هنا
+Here it is.	ها هي.
+I am a boy.	أنا ولد.
+I am going.	أنا ذاهب.
+I am happy.	أنا سعيد
+I can jump.	يمكنني القفز.
+I can jump.	أستطيع القفز.
+I can jump.	يمكنني أن أقفز.
+I can swim.	يمكنني السباحة.
+I can swim.	بإمكاني أن أسبح.
+I did that.	فعلت هذا
+I eat here.	سآكل هنا.
+I envy her.	أنا أحسدها.
+I felt sad.	شعرت بالحزن.
+I hear you.	أنا أسمعك.
+I know her.	أعرِفها.
+I know her.	أنا أعرفها
+I know him.	أعرفه.
+I know him.	أنا أعرفه
+I like you.	أحبك.
+I like you.	تعجبني.
+I love her.	أنا أحبها
+I love you.	أنا أحبك.
+I love you.	أحبك.
+I love you.	احبك.
+I love you.	انا احبك
+I love you.	أنا أحبك
+I meant it.	قصدت ذلك.
+I miss him.	أشتاق إليه.
+I miss you.	اشتقت إليك.
+I miss you.	افتقدتك.
+I need you.	أحتاج إليك.
+I need you.	أحتاجك.
+I resigned.	استقلت.
+I saw that.	لقد رأيت ذلك
+I saw them.	رأيتهم.
+Hi.	مرحبًا.
+Run!	اركض!
+Duck!	اخفض رأسك!
+Duck!	اخفضي رأسك!
+Duck!	اخفضوا رؤوسكم!
+Help!	النجدة!
+Jump!	اقفز!
+Stop!	قف!
+Stop!	توقف !
+Wait!	إنتظر
+Go on.	داوم.
+Go on.	استمر.
+Hello!	مرحباً.
+Hello.	أهلاً.
+Hello.	مرحباً.
+Hurry!	تعجّل!
+Hurry!	استعجل!
+I see.	انا ارى.
+I won!	أنا فُزت!
+Relax.	استرح.
+Smile.	ابتسم.
+Cheers!	في صحتك.
+Got it?	هل فهمت؟
+He ran.	ركض.
+I know.	أعرف.
+I know.	أعلم ذلك.
+I know.	أنا أعلم
+I'm 19.	أنا في 19
+I'm OK.	أنا بخير.
+Listen.	استمع
+No way!	غير معقول!
+Really?	حقاً؟
+Thanks!	شكراً!
+Thanks.	شكرا.
+Why me?	لماذا أنا؟
+Awesome!	رائع!
+Be cool.	خذ راحتك.
+Beat it.	أغرب عن وجهي
+Call me.	هاتفني.
+Call me.	اتصل بي.
+Come in.	تفضل بالدخول.
+Come in.	تعال إلى الداخل
+Come on!	بالله عليك!
+Come on!	هيا
+Come on!	هيّا
+Get out!	اخرج من هنا!
+Get out!	أُخرج!
+Get out.	اخرج!
+Go away.	اتركني و شأني.
+Go away.	اذهب بعيداً.
+Go away.	ارحل.
+Goodbye!	مع السلامة.
+Goodbye!	إلى اللقاء
+Hang on.	إنتظر
+He came.	لقد أتى.
+He runs.	هو يجري
+Help me!	ساعدني!
+Help me.	النجدة!
+Hold on.	انتظر.
+I agree.	أنا موافق
+I'm sad.	أنا حزين.
+Me, too.	أنا أيضاً.
+Me, too.	أنا كذلك
+Shut up!	اخرس!
+Shut up!	اصمت!
+Shut up!	اسكت!
+Shut up!	أغلق فمك!
+Stop it.	أوقفه
+Take it.	خذه
+Tell me.	أخبرني
+Tom won.	توم فاز.
+Tom won.	لقد ربح توم.
+Wake up!	استيقظ!
+Welcome.	أهلاً و سهلاً!
+Welcome.	مرحباً بك!
+Welcome.	اهلا وسهلا
+Welcome.	مرحبا!
+Who won?	من فاز؟
+Who won?	من الذي ربح؟
+Why not?	لم لا؟
+Why not?	لما لا؟
+I forgot.	لقد نسيت.
+I got it.	فهمتُهُ.
+I got it.	فهمتُها.
+I got it.	فَهمتُ ذلك.
+I use it.	أستخدمه.
+I'll pay.	سأدفع أنا.
+I'm busy.	أنا مشغول.
+I'm busy.	إنني مشغول.
+I'm cold.	أشعر بالبرد.
+I'm free.	أنا حُرّ.
+I'm here.	أنا هنا
+I'm home.	لقد عدت إلى البيت
+I'm poor.	أنا فقير.
+I'm rich.	أنا ثري.
+It hurts.	هذا مؤلم
+It works.	هي تمشي.
+It's dry.	انها جافه
+It's hot.	الجو حار
+It's new.	إنه جديد
+Let's go!	هيا بنا!
+Let's go!	هيا لنذهب!
+Let's go!	لنذهب.
+Let's go.	هيا بنا.
+Let's go.	هيا بنا نذهب.
+Look out!	اِنتبه!
+Look out!	إحذر!
+Look out!	انتبه
+Speak up!	تكلم!
+Stand up!	قف!
+Terrific!	رائع!
+Terrific!	ممتاز!
+Tom died.	توم مات.
+Tom died.	توفي توم.
+Tom left.	لقد غادر توم.
+Tom lied.	لقد كذِبَ توم.
+Tom lost.	لقد خَسِرَ توم.
+Tom quit.	توم استقال.
+Tom quit.	استقال توم
+Try some.	هاك، جرب.
+Who am I?	من أنا؟
+Who died?	من مات؟
+Who died?	من توفي؟
+After you.	من بعدك
+Birds fly.	العصافير تطير.
+Birds fly.	تحلق الطيور.
+Bless you.	يُباركك.
+Calm down.	اِهدأ.
+Can we go?	هل نستطيع أن نذهب؟
+Come here.	تعال هنا.
+Come here.	تعال إلى هنا.
+Come here.	اقتربي.
+Come home.	تعال إلى منزلي.
+Did I win?	هل أنا فُزت؟
+Do it now.	افعل ذلك الآن.
+Don't lie.	إياك و الكذب.
+Excuse me.	عفواً.
+Excuse me.	أعذرني
+Fantastic!	رائع!
+Forget it!	انسَ الأمر.
+Forget it!	انسَ ذلك
+Forget it.	انسَ الأمر.
+Forget it.	انسَ ذلك
+Forget me.	انسني.
+Go inside.	أُدخُلْ.
+Go to bed.	اذهب إلى النوم
+Good luck.	بالتوفيق.
+Goodnight.	ليلة سعيدة.
+Goodnight.	مساء الخير
+Hands off.	لا تلمسني.
+He is ill.	إنه مريض.
+He is ill.	هو مريض
+How's Tom?	كيف توم؟
+How's Tom?	كيف حال توم؟
+I am cold.	أشعر بالبرد.
+I am here.	أنا هنا
+I am okay.	أنا بخير.
+I am sure.	أنا متأكد.
+I hope so.	آمل ذلك.
+I laughed.	ضحكت.
+I like it.	هذا يعجبني.
+I love it.	أنا أحبه.
+I see Tom.	أنا أرى توم
+I'm a boy.	أنا ولد.
+I'm a kid.	أنا ولد.
+I'm a man.	أنا رجلٌ.
+I'm alone.	أنا لوحدي.
+I'm bored.	مللت.
+I'm broke.	لقد كُسِرت
+I'm happy.	أنا سعيد
+I'm lucky.	انا محظوظ.
+I'm needy.	أنا مسكين.
+I'm ready.	أنا مستعد.
+I'm ready.	أنا مستعدة.
+I'm sorry.	أنا آسف.
+I'm sorry.	أنا متأسف.
+I'm sorry.	أتأسف.
+I'm sorry.	أنا آسف
+I'm tired.	أنا متعب.
+Is it new?	هل هذا جديد؟
+It's cold.	الجو بارد.
+It's late.	إنها ساعة متأخرة.
+Let me go.	دَعني أذهب.
+Listen up.	اسمع
+Look back!	انظر خلفك!
+Of course!	طبعاً!
+Of course.	بالطبع.
+Of course.	طبعاً.
+Of course.	بالتأكيد.
+Of course.	طبعاً!
+Pardon me?	المعذرة؟
+Seriously?	أأنت جاد؟
+She walks.	هي تمشي.
+Stay away.	ابتعد عني
+Stay thin.	حافظي على جسم نحيف.
+Stay thin.	إبقي نحيفة.
+Stay thin.	حافظ على نحافتك.
+Stop that!	أوقف ذلك.
+Stop that.	أوقف ذلك.
+Take care!	انتبه!
+Take care.	مع السلامة.
+Take care.	اعتن بنفسك.
+Take care.	اعتني بنفسك
+Thank you.	شكراً لك
+Then what?	ثم ماذا؟
+Then what?	ماذا بعد ذلك؟
+Tom moved.	لقد تحرك توم.
+Tom waved.	لَوَحَ توم.
+Watch out!	انتبه
+We're hot.	نشعر بالحرارة
+Well done!	جيد
+What's up?	ما الجديد؟
+Who cares?	من يهمّه؟
+Who is it?	مَن؟
+Who knows?	من يدري؟
+Who knows?	من يعلم؟
+Wonderful!	مذهل.
+Wonderful!	ممتاز!
+You idiot!	يا أحمق!
+You idiot!	يا غبي!
+You tried.	لقد حاولت وسعك.
+All aboard!	ليركب الجميع.
+All aboard!	ليركب الكل.
+Am I clear?	هل هذا واضح؟
+Am I wrong?	هل أنا مخطئ؟
+Be careful.	كن حذرا.
+Be serious.	كُن جدياً.
+Birds sing.	العصافير تغرّد
+Bottoms up!	الى القاع .
+Bottoms up!	برشفة واحدة .
+Bring food.	أحضر الطعام.
+Bring help.	أحضِر المُساعدة.
+Bring wine.	أحضر الخمر.
+Bring wine.	أحضر النبيذ.
+Can I stay?	هل أستطيع أن أبقى؟
+Carry this.	احمل هذا.
+Check that.	إفحص ذلك.
+Check this.	إفحص هذا.
+Come again.	تعالَ مُجدداً.
+Come alone.	تعالَ وحدك.
+Come alone.	تعالَ بمفردك.
+Come along.	تعال معنا.
+Come on in!	هيا ادخل
+Come on in.	هيا ادخل
+Come quick!	تعال بسرعة.
+Come to me.	تعال إلي
+Definitely!	بالتأكيد
+Definitely!	قطعاً
+Don't move.	لا تتحرك.
+Fill it up.	املئها.
+Find a job.	إبحث عن عمل
+Follow him.	اتبعه.
+Go to work.	اذهب إلى العمل
+Good night.	ليلة سعيدة.
+Have faith.	كن مؤمنا.
+He is nice.	إنه لطيف.
+He is sick.	إنه مريض.
+He's happy.	هو سعيد
+He's smart.	هو ذكي.
+He's smart.	إنه ذكي.
+Here he is!	ها هو هنا
+Here it is.	ها هي.
+I am a boy.	أنا ولد.
+I am going.	أنا ذاهب.
+I am happy.	أنا سعيد
+I can jump.	يمكنني القفز.
+I can jump.	أستطيع القفز.
+I can jump.	يمكنني أن أقفز.
+I can swim.	يمكنني السباحة.
+I can swim.	بإمكاني أن أسبح.
+I did that.	فعلت هذا
+I eat here.	سآكل هنا.
+I envy her.	أنا أحسدها.
+I felt sad.	شعرت بالحزن.
+I hear you.	أنا أسمعك.
+I know her.	أعرِفها.
+I know her.	أنا أعرفها
+I know him.	أعرفه.
+I know him.	أنا أعرفه
+I like you.	أحبك.
+I like you.	تعجبني.
+I love her.	أنا أحبها
+I love you.	أنا أحبك.
+I love you.	أحبك.
+I love you.	احبك.
+I love you.	انا احبك
+I love you.	أنا أحبك
+I meant it.	قصدت ذلك.
+I miss him.	أشتاق إليه.
+I miss you.	اشتقت إليك.
+I miss you.	افتقدتك.
+I need you.	أحتاج إليك.
+I need you.	أحتاجك.
+I resigned.	استقلت.
+I saw that.	لقد رأيت ذلك
+I saw them.	رأيتهم.
