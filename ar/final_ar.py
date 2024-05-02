@@ -1,7 +1,7 @@
 import tkinter as tk
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.pipeline import Pipeline
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
@@ -81,11 +81,11 @@ svm_clf = Pipeline([
 ])
 svm_clf.fit(X_train, y_train)
 
-# Step 4b: Training the Random Forest Model for comparison
-rf_clf = Pipeline([
-    ('clf', RandomForestClassifier())
+# Step 4b: Training the Decision Tree Model
+dt_clf = Pipeline([
+    ('clf', DecisionTreeClassifier())
 ])
-rf_clf.fit(X_train, y_train)
+dt_clf.fit(X_train, y_train)
 
 
 # Step 5: Evaluation
@@ -96,7 +96,7 @@ def evaluate_model(clf, X_test, y_test):
 
 
 svm_accuracy = evaluate_model(svm_clf, X_test, y_test)
-rf_accuracy = evaluate_model(rf_clf, X_test, y_test)
+dt_accuracy = evaluate_model(dt_clf, X_test, y_test)
 
 # Create GUI
 root = tk.Tk()
@@ -122,8 +122,8 @@ output_label.grid(row=1, column=0, columnspan=3, padx=5, pady=5)
 svm_accuracy_label = tk.Label(root, text=f"SVM Accuracy: {svm_accuracy * 100:.2f}%")
 svm_accuracy_label.grid(row=2, column=0, columnspan=3, padx=5, pady=5)
 
-# Random Forest Accuracy
-rf_accuracy_label = tk.Label(root, text=f"Random Forest Accuracy: {rf_accuracy * 100:.2f}%")
-rf_accuracy_label.grid(row=3, column=0, columnspan=3, padx=5, pady=5)
+# Decision Tree Accuracy
+dt_accuracy_label = tk.Label(root, text=f"Decision Tree Accuracy: {dt_accuracy * 100:.2f}%")
+dt_accuracy_label.grid(row=3, column=0, columnspan=3, padx=5, pady=5)
 
 root.mainloop()
