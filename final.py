@@ -62,7 +62,7 @@ class TranslationApp:
             return
 
         # Load and preprocess data
-        with open("data_eng.txt", "r", encoding="utf-8") as file:
+        with open("data.txt", "r", encoding="utf-8") as file:
             lines = file.readlines()
 
         X = []
@@ -77,7 +77,7 @@ class TranslationApp:
         X_tfidf = tfidf_vectorizer.fit_transform(X)
 
         # Split data into train and test sets
-        X_train, X_test, y_train, y_test = train_test_split(X_tfidf, y, test_size=0.2, random_state=42)
+        X_train, X_test, y_train, y_test = train_test_split(X_tfidf, y, test_size=0.15, random_state=42)
 
         # Train the selected model
         clf = self.train_model(X_train, y_train, chosen_model)
@@ -103,4 +103,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-# all code
